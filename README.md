@@ -82,4 +82,3 @@ python taxi_trip_producer.py
 ---
 
 Happy analyzing! 🚖📊
-```
